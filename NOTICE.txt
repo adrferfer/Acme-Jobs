@@ -29,4 +29,5 @@ The following tools and components are required:
 The contributors of this project are:
 
   -manalerod (manalerod@alum.us.es)
-	-adrferfer (adrferfer@alum.us.es)
+  -adrferfer (adrferfer@alum.us.es)
+  - GuillermoDP14 (guigarjim@alum.us.es)
