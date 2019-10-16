@@ -30,8 +30,11 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.favourite-link.guigarjim = Enlace favorito de Guillermo
 master.menu.anonymous.shout.create = Lanzar un grito
 master.menu.anonymous.shout.list = Lista de gritos
+master.menu.anonymous.bulletin.create = Crear un boletin
+master.menu.anonymous.bulletin.list = Boletines
 
 # master.menu.administrator ###################################################
 
