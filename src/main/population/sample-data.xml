@@ -19,19 +19,19 @@
 
 <!-- Shouts -->
 
-	<bean id="shout01" class="acme.entities.roles.shouts.Shout">
+	<bean id="shout01" class="acme.entities.shouts.Shout">
 		<property name= "author" value="John Doe"/>
 		<property name= "text" value="I'm happy!"/>
 		<property name= "moment" value="2019/09/09 10:00"/>
 	</bean>
 	
-	<bean id="shout02" class="acme.entities.roles.shouts.Shout">
+	<bean id="shout02" class="acme.entities.shouts.Shout">
 		<property name= "author" value="Goku"/>
 		<property name= "text" value="KAMEHAMEHAAAAAAAAAAAAAAAAA!!!"/>
 		<property name= "moment" value="2019/09/09 10:00"/>
 	</bean>
 	
-	<bean id="shout03" class="acme.entities.roles.shouts.Shout">
+	<bean id="shout03" class="acme.entities.shouts.Shout">
 		<property name= "author" value="Mario Bros"/>
 		<property name= "text" value="¡Mamma mia!"/>
 		<property name= "moment" value="2019/09/09 10:00"/>
