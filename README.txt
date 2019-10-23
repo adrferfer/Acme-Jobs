@@ -8,4 +8,6 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-This is the Acme-Jobs project. We will extend this project during lessons.
+
+This is the Acme-Jobs project. This project will be extended during the subject Design & Testing.
+
